@@ -1,7 +1,7 @@
 # Bienvenu sur le projet d'affichage NMEA 0183. 
 ## _On en a assez de Raymargarine!_
 
-
+english version https://github.com/guybel/afficheur/blob/main/readme_en.md
 
 [![Build Status](https://github.com/guybel/afficheur?branch=main)](https://github.com/guybel/afficheur)
 
